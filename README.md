@@ -1,3 +1,3 @@
 # testeGitRepo
 
-Não sei se está funcionando
+Parece que está funcionando
